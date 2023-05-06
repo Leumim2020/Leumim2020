@@ -6,8 +6,8 @@
 <p align="center">
 <a href= "https://github.com/Leumim2020">
    
-<img src= "https://github-readme-stats.vercel.app/api?username=Leumim2020&show_icons=true&theme=dark">
-<img height="199px"src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Leumim2020&theme=dark">
+<img src= "https://github-readme-stats.vercel.app/api?username=Leumim2020&show_icons=true&theme=radical">
+<img height="199px"src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Leumim2020&theme=radical">
 
 </a>
 </p>
