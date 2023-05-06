@@ -1,1 +1,13 @@
-# leumimCamuenga
+## 😎 Hello! I'm Leumim Camuenga nice to meet you 
+
+📖 I'm studing <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />  and 
+🛠 Framework    <img algin="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> 
+
+<p align="center">
+<a href= "https://github.com/Leumim2020">
+   
+<img src= "https://github-readme-stats.vercel.app/api?username=Leumim2020&show_icons=true&theme=dracula">
+<img height="199px"src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Leumim2020&theme=dracula">
+
+</a>
+</p>
