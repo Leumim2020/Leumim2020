@@ -1,4 +1,4 @@
-## 😎 Hello! I'm Leumim Camuenga nice to meet you 
+## 😎 Hello! I'm Leumim Camuenga nice to meet you.
 
 📖 I'm studing <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />  and 
 🛠 Framework    <img algin="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> 
